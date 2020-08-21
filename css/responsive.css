@@ -1,0 +1,30 @@
+@media (max-width: 991px) {
+    .ag-service-title {
+        text-align: center;
+    }
+    .ag-service-title-text {
+        text-align: center;
+    }
+    .ag-service-btn {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .ag-service-info-list{
+        margin-top: 50px;
+        text-align: center;
+    }
+    .ag-service-info-list img{
+        display: block;
+        margin: 0 auto;
+    }
+    .ag-catigories-list {
+        font-size: 17px;
+    }
+    .ag-copyright {
+        text-align: center;
+    }
+    .ag-footer-social-link {
+        justify-content: center;
+    }
+}
